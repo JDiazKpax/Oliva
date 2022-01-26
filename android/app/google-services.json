@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "906579002456",
+    "firebase_url": "https://oliva-c5a60.firebaseio.com",
+    "project_id": "oliva-c5a60",
+    "storage_bucket": "oliva-c5a60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906579002456:android:c8e0f0da7580e8acf8762d",
+        "android_client_info": {
+          "package_name": "com.example.oliva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906579002456-m6eocbfbcngse6ttlm1ahnkaboa70q4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oliva",
+            "certificate_hash": "a5f2bbe01de12263895a126789d5c3a8b079f634"
+          }
+        },
+        {
+          "client_id": "906579002456-88ah6a6q4tgcoeeebgdtca5l3nvhmpfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3WMXNP-26__0vLkvmfxdH1xcfiO0K7IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906579002456-88ah6a6q4tgcoeeebgdtca5l3nvhmpfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
